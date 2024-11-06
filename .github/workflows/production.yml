@@ -48,4 +48,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: woffee/devops_demo:latest  # Change this to your DockerHub username and image name
+          tags: mustafabayram/devops_demo:latest  # Change this to your DockerHub username and image name
